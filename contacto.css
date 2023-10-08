@@ -1,0 +1,44 @@
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px 40px;
+  border-radius: 8px;
+}
+
+input[type="text"],
+textarea,
+button {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+label {
+  font-size: 14px;
+  color: #555;
+  cursor: pointer;
+}
+
+button {
+  background-color: #ffeb3b;
+  border: none;
+  color: #333;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.pfooter {
+  color: #ecf0f1;
+  margin: 0;
+  padding: 10px 0;
+}
